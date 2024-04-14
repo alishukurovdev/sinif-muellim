@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Structtt\bin\Debug\net6.0\Structtt.exe
+C:\Users\hp\source\repos\Structtt\bin\Debug\net6.0\Structtt.deps.json
+C:\Users\hp\source\repos\Structtt\bin\Debug\net6.0\Structtt.runtimeconfig.json
+C:\Users\hp\source\repos\Structtt\bin\Debug\net6.0\Structtt.dll
+C:\Users\hp\source\repos\Structtt\bin\Debug\net6.0\Structtt.pdb
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\Structtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\Structtt.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\Structtt.AssemblyInfo.cs
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\Structtt.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\Structtt.dll
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\refint\Structtt.dll
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\Structtt.pdb
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\Structtt.genruntimeconfig.cache
+C:\Users\hp\source\repos\Structtt\obj\Debug\net6.0\ref\Structtt.dll
